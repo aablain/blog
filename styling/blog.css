@@ -6,8 +6,12 @@
 .blog {
   background: grey;
   font-family: cursive;
+  margin-top: 10px;
+  margin-bottom: 15px;
 }
 
 .blog2 {
   font-family: sans-serif;
+  margin-top: 10px;
+  margin-bottom: 15px;
 }
