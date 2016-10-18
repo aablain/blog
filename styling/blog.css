@@ -15,3 +15,12 @@
   margin-top: 10px;
   margin-bottom: 15px;
 }
+
+.blue-background {
+  background-color: blue;
+  color: #fff;
+}
+
+.red-background {
+  background-color: red;
+}
